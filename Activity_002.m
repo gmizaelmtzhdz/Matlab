@@ -2,7 +2,7 @@
 @author G. Mizael Mtz. Hdz.
 @description Graphics
 @version 1.0.0
-@date 2017-10-08
+@date 2017-10-11
 %}
 date
 name='G. Mizael Mtz. Hdz.'
@@ -13,6 +13,7 @@ x=abs(x);                       %2.1 abs(x)
 y=sin(x);                       %2.1 y data
 plot(x,y);                      %2.1 Graphic
 input('Press Any Key to Continue');
+
 
 string='Exercise 2.2:';
 fprintf('%s\n',string);
@@ -28,10 +29,12 @@ legend('sin(2x)','2cos(2x)');                   %2.2 legend
 hold off;                                       %2.2 hold off
 input('Press Any Key to Continue');
 
+
 string='Exercise 2.3:';
-fprintf('%s\n',string);
-polar(67,1,'')
+fprintf('%s\n',string);                         %2.3 
+polar(67,1,'')                                  %2.3 graphic: polar
 input('Press Any Key to Continue');
+
 
 string='Exercise 2.4:';
 fprintf('%s\n',string);
@@ -62,6 +65,7 @@ subplot(2,2,4)
 plot(x,fx);                         %2.4 4. plot
 input('Press Any Key to Continue');
 
+
 string='Exercise 2.5:';
 fprintf('%s\n',string);
 teta=linspace(0,2*pi,1000);
@@ -69,6 +73,7 @@ r=1+2*sin(6*teta);
 subplot(1,1,1)
 polar(teta,r);
 input('Press Any Key to Continue');
+
 
 string='Exercise 2.6:';
 fprintf('%s\n',string);
@@ -81,6 +86,7 @@ bar(xx,yy);
 y=raylpdf(xx,1);
 line(xx,y);
 input('Press Any Key to Continue');
+
 
 string='Exercise 2.7:';
 fprintf('%s\n',string);
@@ -104,6 +110,7 @@ plot3(X,Y,Z);
 mesh(X,Y,Z);                        %2.8 graphic =>contour
 input('Press Any Key to Continue');
 
+
 string='Exercise 2.9:';
 fprintf('%s\n',string);
 x=0;y=0;X=0;Y=0;Z=0;
@@ -114,6 +121,7 @@ Z=((X.^2-2*X).^2)*exp(-X.^2 - Y.^2 - X.*Y);
 mesh(X,Y,Z);                                    %2.9 graphic: mesh
 surf(X,Y,Z);                                    %2.9 graphic: surf
 input('Press Any Key to Continue');
+
 
 string='Exercise 2.10:';
 fprintf('%s\n',string);
