@@ -7,6 +7,8 @@
 name='G. Mizael Mtz. Hdz.'
 string='Distribución Geometrica';
 fprintf('%s\n',string);
+figure('name','Geometrica');
+title('Geometrica');
 w=1 - geocdf(25,0.03)
 x = 0:25;
 y = geocdf(x,0.03);
