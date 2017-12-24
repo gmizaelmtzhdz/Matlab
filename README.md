@@ -8,3 +8,4 @@ Matlab Activities
 * Uniform distribution: https://github.com/martinezmizael/Matlab/blob/master/Uniforme.m
 * Geometric distribution: https://github.com/martinezmizael/Matlab/blob/master/Geometrica.m
 * Poisson distribution: https://github.com/martinezmizael/Matlab/blob/master/Poisson.m
+* Binomial distribution: https://github.com/martinezmizael/Matlab/blob/master/Binomial.m
