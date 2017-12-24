@@ -7,3 +7,4 @@ Matlab Activities
 * Calculus: https://github.com/martinezmizael/Matlab/blob/master/Activity_005.m
 * Uniform distribution: https://github.com/martinezmizael/Matlab/blob/master/Uniforme.m
 * Geometric distribution: https://github.com/martinezmizael/Matlab/blob/master/Geometrica.m
+* Poisson distribution: https://github.com/martinezmizael/Matlab/blob/master/Poisson.m
