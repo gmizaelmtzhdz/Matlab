@@ -12,3 +12,4 @@ Matlab Activities
 * Bernoulli distribution: https://github.com/martinezmizael/Matlab/blob/master/Bernoulli.m
 * Gas Exercise: https://github.com/martinezmizael/Matlab/blob/master/Gas.m
 * Radiation Exercise: https://github.com/martinezmizael/Matlab/blob/master/Radiacion.m
+* Visualization Exercise: https://github.com/martinezmizael/Matlab/blob/master/Visualizacion.m
